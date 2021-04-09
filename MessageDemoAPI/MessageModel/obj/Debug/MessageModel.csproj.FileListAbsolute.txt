@@ -1,0 +1,11 @@
+C:\Users\hpatel\Documents\Development\Utility\MessageModel\bin\Debug\MessageModel.dll
+C:\Users\hpatel\Documents\Development\Utility\MessageModel\bin\Debug\MessageModel.pdb
+C:\Users\hpatel\Documents\Development\Utility\MessageModel\obj\Debug\MessageModel.csproj.CoreCompileInputs.cache
+C:\Users\hpatel\Documents\Development\Utility\MessageModel\obj\Debug\MessageModel.dll
+C:\Users\hpatel\Documents\Development\Utility\MessageModel\obj\Debug\MessageModel.pdb
+C:\Users\hpatel\Documents\Development\Utility\MessageModel\obj\Debug\MessageModel.csprojAssemblyReference.cache
+C:\Users\hpatel\Documents\Development\Utility\API\MessageModel\bin\Debug\MessageModel.dll
+C:\Users\hpatel\Documents\Development\Utility\API\MessageModel\bin\Debug\MessageModel.pdb
+C:\Users\hpatel\Documents\Development\Utility\API\MessageModel\obj\Debug\MessageModel.csproj.CoreCompileInputs.cache
+C:\Users\hpatel\Documents\Development\Utility\API\MessageModel\obj\Debug\MessageModel.dll
+C:\Users\hpatel\Documents\Development\Utility\API\MessageModel\obj\Debug\MessageModel.pdb

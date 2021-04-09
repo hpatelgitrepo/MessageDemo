@@ -1,0 +1,12 @@
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe.config
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\bin\Debug\ClientConsoleApp.pdb
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\bin\Debug\MessageModel.dll
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\bin\Debug\MessageModel.pdb
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\obj\Debug\ClientConsoleApp.csprojAssemblyReference.cache
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.CopyComplete
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\obj\Debug\ClientConsoleApp.exe
+C:\Users\hpatel\Documents\Development\Utility\Client\ClientConsoleApp\obj\Debug\ClientConsoleApp.pdb
