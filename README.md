@@ -1,4 +1,4 @@
-# Framwwork/Technology/Prerequisites 
+# Framework/Technology/Prerequisites 
   1. .Net Framwwork 4.7.1 or higher
   2. Asp.Net Web API 2.0
   3. SimpleInjector IOC
